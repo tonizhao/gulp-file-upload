@@ -1,0 +1,18 @@
+{
+  "name": "d2c",
+  "version": "1.0.0",
+  "description": "d2c proj",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toni",
+  "license": "ISC"
+}
